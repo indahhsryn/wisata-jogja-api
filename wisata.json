@@ -4,25 +4,30 @@
       "id": 1,
       "nama": "Malioboro",
       "lokasi": "Yogyakarta",
-      "gambar": "images/malioboro.jpg"
+      "gambar": "https://images.pexels.com/photos/xxx/malioboro.jpg",
+      "deskripsi": "Jalan legendaris penuh pedagang kaki lima & becak."
     },
     {
       "id": 2,
       "nama": "Tugu Jogja",
       "lokasi": "Yogyakarta",
-      "gambar": "images/tugu_jogja.jpg"
+      "gambar": "https://images.pexels.com/photos/xxx/tugu-jogja.jpg",
+      "deskripsi": "Monumen ikonik simbol kota Yogyakarta."
     },
     {
       "id": 3,
       "nama": "Pantai Sundak",
       "lokasi": "Gunungkidul",
-      "gambar": "images/sundak.jpg"
+      "gambar": "https://images.unsplash.com/photo-xxx/pantai-sundak.jpg",
+      "deskripsi": "Pantai eksotis dengan pasir putih dan air jernih."
     },
     {
       "id": 4,
       "nama": "Goa Pindul",
       "lokasi": "Gunungkidul",
-      "gambar": "images/pindul.jpg"
+      "gambar": "https://images.unsplash.com/photo-xxx/goa-pindul.jpg",
+      "deskripsi": "Petualangan unik menyusuri sungai bawah tanah."
     }
+  
   ]
 }
