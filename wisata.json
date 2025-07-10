@@ -4,30 +4,353 @@
       "id": 1,
       "nama": "Malioboro",
       "lokasi": "Yogyakarta",
-      "gambar": "https://images.pexels.com/photos/xxx/malioboro.jpg",
+      "gambar": "images/malioboro.jpg",
       "deskripsi": "Jalan legendaris penuh pedagang kaki lima & becak."
     },
     {
       "id": 2,
       "nama": "Tugu Jogja",
       "lokasi": "Yogyakarta",
-      "gambar": "https://images.pexels.com/photos/xxx/tugu-jogja.jpg",
+      "gambar": "images/tugu_jogja.jpg",
       "deskripsi": "Monumen ikonik simbol kota Yogyakarta."
     },
     {
       "id": 3,
       "nama": "Pantai Sundak",
       "lokasi": "Gunungkidul",
-      "gambar": "https://images.unsplash.com/photo-xxx/pantai-sundak.jpg",
+      "gambar": "images/sundak.jpg",
       "deskripsi": "Pantai eksotis dengan pasir putih dan air jernih."
     },
     {
       "id": 4,
       "nama": "Goa Pindul",
       "lokasi": "Gunungkidul",
-      "gambar": "https://images.unsplash.com/photo-xxx/goa-pindul.jpg",
-      "deskripsi": "Petualangan unik menyusuri sungai bawah tanah."
+      "gambar": "images/pindul.jpg",
+      "deskripsi": "Petualangan menyusuri sungai bawah tanah."
+    },
+    {
+      "id": 5,
+      "nama": "Candi Prambanan",
+      "lokasi": "Sleman",
+      "gambar": "images/prambanan.jpg",
+      "deskripsi": "Candi Hindu terbesar di Indonesia."
+    },
+    {
+      "id": 6,
+      "nama": "Candi Borobudur",
+      "lokasi": "Magelang",
+      "gambar": "images/borobudur.jpg",
+      "deskripsi": "Candi Buddha termegah dan terbesar."
+    },
+    {
+      "id": 7,
+      "nama": "Keraton Yogyakarta",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/keraton.jpg",
+      "deskripsi": "Istana resmi Kesultanan Yogyakarta."
+    },
+    {
+      "id": 8,
+      "nama": "Taman Sari",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/tamansari.jpg",
+      "deskripsi": "Kompleks taman pemandian bangsawan."
+    },
+    {
+      "id": 9,
+      "nama": "Gunung Merapi",
+      "lokasi": "Sleman",
+      "gambar": "images/merapi.jpg",
+      "deskripsi": "Gunung api aktif dan tempat jeep lava tour."
+    },
+    {
+      "id": 10,
+      "nama": "Bukit Bintang",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/bukitbintang.jpg",
+      "deskripsi": "Tempat menikmati citylight Jogja dari ketinggian."
+    },
+    {
+      "id": 11,
+      "nama": "Pantai Indrayanti",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/indrayanti.jpg",
+      "deskripsi": "Pantai pasir putih dengan fasilitas lengkap."
+    },
+    {
+      "id": 12,
+      "nama": "HeHa Sky View",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/heha.jpg",
+      "deskripsi": "Tempat hits untuk foto dan kuliner."
+    },
+    {
+      "id": 13,
+      "nama": "Hutan Pinus Mangunan",
+      "lokasi": "Bantul",
+      "gambar": "images/pinus.jpg",
+      "deskripsi": "Hutan pinus sejuk cocok untuk piknik dan foto."
+    },
+    {
+      "id": 14,
+      "nama": "Kebun Buah Mangunan",
+      "lokasi": "Bantul",
+      "gambar": "images/mangunan.jpg",
+      "deskripsi": "Spot sunrise dengan kabut pegunungan indah."
+    },
+    {
+      "id": 15,
+      "nama": "Pantai Parangtritis",
+      "lokasi": "Bantul",
+      "gambar": "images/parangtritis.jpg",
+      "deskripsi": "Pantai ikonik dekat Jogja dengan mitos mistis."
+    },
+    {
+      "id": 16,
+      "nama": "Pantai Drini",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/drini.jpg",
+      "deskripsi": "Pantai unik dengan pulau karang di tengah."
+    },
+    {
+      "id": 17,
+      "nama": "Pantai Siung",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/siung.jpg",
+      "deskripsi": "Pantai dengan spot panjat tebing."
+    },
+    {
+      "id": 18,
+      "nama": "Tebing Breksi",
+      "lokasi": "Sleman",
+      "gambar": "images/breksi.jpg",
+      "deskripsi": "Tebing batu dengan ukiran artistik."
+    },
+    {
+      "id": 19,
+      "nama": "Obelix Hills",
+      "lokasi": "Sleman",
+      "gambar": "images/obelix.jpg",
+      "deskripsi": "Tempat nongkrong dan selfie view sunset."
+    },
+    {
+      "id": 20,
+      "nama": "Pantai Ngobaran",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/ngobaran.jpg",
+      "deskripsi": "Pantai eksotis dengan nuansa budaya Hindu."
+    },
+    {
+      "id": 21,
+      "nama": "Pantai Timang",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/timang.jpg",
+      "deskripsi": "Pantai ekstrem dengan gondola tradisional."
+    },
+    {
+      "id": 22,
+      "nama": "Museum Ullen Sentalu",
+      "lokasi": "Sleman",
+      "gambar": "images/ullensentalu.jpg",
+      "deskripsi": "Museum budaya Jawa yang tersembunyi di lereng Merapi."
+    },
+    {
+      "id": 23,
+      "nama": "Pantai Wediombo",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/wediombo.jpg",
+      "deskripsi": "Pantai luas cocok untuk camping dan surfing."
+    },
+    {
+      "id": 24,
+      "nama": "Kalibiru",
+      "lokasi": "Kulon Progo",
+      "gambar": "images/kalibiru.jpg",
+      "deskripsi": "Wisata alam dengan pemandangan Waduk Sermo."
+    },
+    {
+      "id": 25,
+      "nama": "Waduk Sermo",
+      "lokasi": "Kulon Progo",
+      "gambar": "images/sermo.jpg",
+      "deskripsi": "Waduk yang tenang cocok untuk piknik dan naik perahu."
+    },
+    {
+      "id": 26,
+      "nama": "Air Terjun Sri Gethuk",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/srigethuk.jpg",
+      "deskripsi": "Air terjun di tengah hutan dengan akses perahu."
+    },
+    {
+      "id": 27,
+      "nama": "Pantai Pok Tunggal",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/poktunggal.jpg",
+      "deskripsi": "Pantai tersembunyi yang bersih dan sepi."
+    },
+    {
+      "id": 28,
+      "nama": "Pantai Jogan",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/jogan.jpg",
+      "deskripsi": "Pantai dengan air terjun langsung ke laut."
+    },
+    {
+      "id": 29,
+      "nama": "Pantai Krakal",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/krakal.jpg",
+      "deskripsi": "Pantai panjang cocok untuk jalan-jalan sore."
+    },
+    {
+      "id": 30,
+      "nama": "Cave Tubing Kalisuci",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/kalisuci.jpg",
+      "deskripsi": "Arung jeram santai di sungai bawah gua."
+    },
+    {
+      "id": 31,
+      "nama": "Pantai Slili",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/slili.jpg",
+      "deskripsi": "Pantai kecil antara Sadranan dan Krakal."
+    },
+    {
+      "id": 32,
+      "nama": "Pantai Sadranan",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/sadranan.jpg",
+      "deskripsi": "Pantai snorkeling populer dengan air jernih."
+    },
+    {
+      "id": 33,
+      "nama": "Lereng Merapi Park",
+      "lokasi": "Sleman",
+      "gambar": "images/merapipark.jpg",
+      "deskripsi": "Taman selfie dengan miniatur landmark dunia."
+    },
+    {
+      "id": 34,
+      "nama": "De Mata Trick Eye Museum",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/demata.jpg",
+      "deskripsi": "Museum 3D dengan lukisan ilusi optik."
+    },
+    {
+      "id": 35,
+      "nama": "Alun-alun Kidul",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/alkid.jpg",
+      "deskripsi": "Ruang publik terkenal dengan tradisi masangin."
+    },
+    {
+      "id": 36,
+      "nama": "Alun-alun Utara",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/alunutarajogja.jpg",
+      "deskripsi": "Tempat ramai acara budaya dan hiburan rakyat."
+    },
+    {
+      "id": 37,
+      "nama": "Kopi Klotok",
+      "lokasi": "Sleman",
+      "gambar": "images/klotok.jpg",
+      "deskripsi": "Warung kopi jadul dengan pemandangan sawah."
+    },
+    {
+      "id": 38,
+      "nama": "Pantai Baron",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/baron.jpg",
+      "deskripsi": "Pantai dengan sungai air tawar yang unik."
+    },
+    {
+      "id": 39,
+      "nama": "Pantai Kukup",
+      "lokasi": "Gunungkidul",
+      "gambar": "images/kukup.jpg",
+      "deskripsi": "Pantai karang dengan jembatan ke pulau kecil."
+    },
+    {
+      "id": 40,
+      "nama": "Museum Sonobudoyo",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/sonobudoyo.jpg",
+      "deskripsi": "Museum seni dan budaya Jawa klasik."
+    },
+
+    // Lanjut hingga 50...
+    {
+      "id": 41,
+      "nama": "Sindu Kusuma Edupark",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/sindu.jpg",
+      "deskripsi": "Taman hiburan dengan wahana keluarga."
+    },
+    {
+      "id": 42,
+      "nama": "Jogja Bay",
+      "lokasi": "Sleman",
+      "gambar": "images/jogjabay.jpg",
+      "deskripsi": "Waterpark terbesar di Indonesia."
+    },
+    {
+      "id": 43,
+      "nama": "Puncak Becici",
+      "lokasi": "Bantul",
+      "gambar": "images/becici.jpg",
+      "deskripsi": "Hutan pinus dengan view sunset menawan."
+    },
+    {
+      "id": 44,
+      "nama": "Bukit Panguk",
+      "lokasi": "Bantul",
+      "gambar": "images/panguk.jpg",
+      "deskripsi": "Tempat melihat sunrise dari atas awan."
+    },
+    {
+      "id": 45,
+      "nama": "Museum Affandi",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/affandi.jpg",
+      "deskripsi": "Galeri seni pelukis legendaris Indonesia."
+    },
+    {
+      "id": 46,
+      "nama": "Plengkung Gading",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/plengkung.jpg",
+      "deskripsi": "Gerbang klasik dari masa Kraton."
+    },
+    {
+      "id": 47,
+      "nama": "Pasar Beringharjo",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/beringharjo.jpg",
+      "deskripsi": "Pasar tradisional dengan batik lengkap."
+    },
+    {
+      "id": 48,
+      "nama": "Tamansari Water Castle",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/watercastle.jpg",
+      "deskripsi": "Istana air peninggalan kesultanan."
+    },
+    {
+      "id": 49,
+      "nama": "Kampung Cyber",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/cyber.jpg",
+      "deskripsi": "Kampung digital dengan WiFi gratis."
+    },
+    {
+      "id": 50,
+      "nama": "Kampung Wisata Taman Sari",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/kampungtamansari.jpg",
+      "deskripsi": "Kampung wisata budaya di sekitar keraton."
     }
-  
   ]
 }
