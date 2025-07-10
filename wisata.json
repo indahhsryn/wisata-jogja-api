@@ -4,25 +4,64 @@
       "id": 1,
       "nama": "Malioboro",
       "lokasi": "Yogyakarta",
-      "gambar": "images/malioboro.jpg"
+      "gambar": "images/malioboro.jpg",
+      "deskripsi": "Jalan legendaris penuh pedagang kaki lima & becak."
     },
     {
       "id": 2,
       "nama": "Tugu Jogja",
       "lokasi": "Yogyakarta",
-      "gambar": "images/tugu_jogja.jpg"
+      "gambar": "images/tugu_jogja.jpg",
+      "deskripsi": "Monumen ikonik simbol kota Yogyakarta."
     },
     {
       "id": 3,
       "nama": "Pantai Sundak",
       "lokasi": "Gunungkidul",
-      "gambar": "images/sundak.jpg"
+      "gambar": "images/sundak.jpg",
+      "deskripsi": "Pantai eksotis dengan pasir putih dan air jernih."
     },
     {
       "id": 4,
       "nama": "Goa Pindul",
       "lokasi": "Gunungkidul",
-      "gambar": "images/pindul.jpg"
+      "gambar": "images/pindul.jpg",
+      "deskripsi": "Petualangan menyusuri sungai bawah tanah."
+    },
+    {
+      "id": 5,
+      "nama": "Candi Prambanan",
+      "lokasi": "Sleman",
+      "gambar": "images/prambanan.jpg",
+      "deskripsi": "Candi Hindu terbesar di Indonesia."
+    },
+    {
+      "id": 6,
+      "nama": "Candi Borobudur",
+      "lokasi": "Magelang",
+      "gambar": "images/borobudur.jpg",
+      "deskripsi": "Candi Buddha termegah dan terbesar."
+    },
+    {
+      "id": 7,
+      "nama": "Keraton Yogyakarta",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/keraton.jpg",
+      "deskripsi": "Istana resmi Kesultanan Yogyakarta."
+    },
+    {
+      "id": 8,
+      "nama": "Taman Sari",
+      "lokasi": "Yogyakarta",
+      "gambar": "images/tamansari.jpg",
+      "deskripsi": "Kompleks taman pemandian bangsawan."
+    },
+    {
+      "id": 9,
+      "nama": "Gunung Merapi",
+      "lokasi": "Sleman",
+      "gambar": "images/merapi.jpg",
+      "deskripsi": "Gunung api aktif dan tempat jeep lava tour."
     }
   ]
 }
